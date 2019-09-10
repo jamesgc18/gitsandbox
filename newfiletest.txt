@@ -1,1 +1,2 @@
 this is test for git repo
+i have modified the test on new file to check diff.
