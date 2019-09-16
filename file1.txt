@@ -1,2 +1,12 @@
+
 this is test file and needs to be modified
 File modified in gitsession master branch
+
+File modified in gitproj repo
+
+function int  add(int i))
+{
+retrun i
+}
+
+added add fuunction
