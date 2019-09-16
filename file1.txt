@@ -1,2 +1,12 @@
 this is test file and needs to be modified
-File modified in gitsession master branch
+File modified in gitsession master branc
+Added addtion fuction in git session repo
+
+function void Add(int i , int j)
+{
+print i+j
+}
+
+
+need to modify this code
+
