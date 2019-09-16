@@ -6,3 +6,11 @@ function in sub(int i)
 return -i;
 }
 
+Added a second function 
+
+function second()
+{
+
+hello func();
+}
+
