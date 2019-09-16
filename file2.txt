@@ -6,6 +6,7 @@ function in sub(int i)
 return -i;
 }
 
+
 Added a second function 
 
 function second()
@@ -13,4 +14,14 @@ function second()
 
 hello func();
 }
+
+
+Added a new function
+function int subnadd(int i)
+{
+return -1+i;
+}
+
+
+
 
