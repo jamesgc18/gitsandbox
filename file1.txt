@@ -1,4 +1,6 @@
+
 this is test file and needs to be modified
+<<<<<<< HEAD
 File modified in gitsession master branc
 Added addtion fuction in git session repo
 
@@ -9,4 +11,19 @@ print i+j
 
 
 need to modify this code
+
+
+File modified in gitsession master branch
+
+File modified in gitproj repo
+
+function int  add(int i))
+{
+retrun i
+}
+
+added add fuunction
+
+merged both the file and included both the code
+
 
