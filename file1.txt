@@ -1,6 +1,6 @@
 
 this is test file and needs to be modified
-<<<<<<< HEAD
+
 File modified in gitsession master branc
 Added addtion fuction in git session repo
 
@@ -26,4 +26,6 @@ added add fuunction
 
 merged both the file and included both the code
 
+modified the code in the forked branch
+Wq
 
