@@ -1,1 +1,7 @@
 this is new file added in gitproject
+Added new code
+void print()
+{
+Print hello
+}
+
